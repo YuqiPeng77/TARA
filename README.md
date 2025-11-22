@@ -1,9 +1,15 @@
 # TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models
 
-This is the official implementation of **"TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models"**.  
+This is the official implementation of **[TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models](https://arxiv.org/abs/2508.08812)**.
+
 TARA introduces a simple yet effective framework for composable personalization by addressing token interference and spatial misalignment in multi-LoRA generation.
 
 > 🔍 TARA allows **multiple LoRA modules** to be trained independently and composed at inference time **without extra merging or joint fine-tuning**.
+> 
+
+## 📰 News
+
+* **2025.11 — Our paper *TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models* has been accepted to AAAI 2026! 🎉**
 
 
 ## 🧠 Highlights
