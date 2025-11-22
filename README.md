@@ -142,3 +142,41 @@ python inference_tara.py \
 - Based on 🤗 HuggingFace Diffusers, supporting both Stable Diffusion v1.5 and SDXL.
 - Supports LoRA modules trained independently and used flexibly at inference.
 
+## 📚 Citation
+
+If you find TARA useful for your research or applications, please cite:
+
+```bibtex
+@misc{peng2025taratokenawareloracomposable,
+      title={TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models}, 
+      author={Yuqi Peng and Lingtao Zheng and Yufeng Yang and Yi Huang and Mingfu Yan and Jianzhuang Liu and Shifeng Chen},
+      year={2025},
+      eprint={2508.08812},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.08812}, 
+}
+```
+
+
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+* **Email:** [peng.yuq@northeastern.edu](mailto:peng.yuq@northeastern.edu)
+* **Homepage:** [https://yuqipeng77.github.io/](https://yuqipeng77.github.io/)
+
+You are also welcome to open issues or pull requests in this repository.
+
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this code for both academic and commercial purposes, as long as proper attribution is given.
+
+For details, please refer to the [LICENSE](./LICENSE) file in this repository.
+
+
+
+
