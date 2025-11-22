@@ -171,11 +171,9 @@ You are also welcome to open issues or pull requests in this repository.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
 
-You are free to use, modify, and distribute this code for both academic and commercial purposes, as long as proper attribution is given.
-
-For details, please refer to the [LICENSE](./LICENSE) file in this repository.
 
 
 
