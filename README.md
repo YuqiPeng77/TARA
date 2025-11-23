@@ -2,10 +2,6 @@
 
 This is the official implementation of **[TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models](https://arxiv.org/abs/2508.08812)**.
 
-<p align="center">
-  <img src="images/problems.png" alt="Two key issues of composing LoRAs." width="350">
-</p>
-
 ![Insights in TARA.](images/insight.png)
 
 
