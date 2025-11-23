@@ -4,6 +4,7 @@ This is the official implementation of **[TARA: Token-Aware LoRA for Composable 
 
 ![Two key issues of composing LoRAs.](images/problems.png)
 
+
 TARA introduces a simple yet effective framework for composable personalization by addressing token interference and spatial misalignment in multi-LoRA generation.
 
 TARA allows **multiple LoRA modules** to be trained independently and composed at inference time **without extra merging or joint fine-tuning**.
