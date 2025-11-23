@@ -1,6 +1,7 @@
 # TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models
 
 This is the official implementation of **[TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models](https://arxiv.org/abs/2508.08812)**.
+
 ![Two key issues of composing LoRAs.](images/problems.png)
 
 TARA introduces a simple yet effective framework for composable personalization by addressing token interference and spatial misalignment in multi-LoRA generation.
@@ -16,10 +17,12 @@ TARA allows **multiple LoRA modules** to be trained independently and composed a
 
 ## 🧠 Highlights
 
+![Insights in TARA.](images/insight.png)
+
 - **Token Focus Masking (TFM):** Ensures each LoRA is only active for its target token.
 - **Token Alignment Loss (TAL):** Guides each token to align with its corresponding visual region.
 - **Composable Inference:** Multiple LoRAs can be used together during generation without retraining.
-![Insights in TARA.](images/insight.png)
+
 ![TARA framework.](images/method.png)
 
 
